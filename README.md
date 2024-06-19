@@ -14,7 +14,7 @@ The data was provided by Andrew L. Maas, Raymond E. Daly, Peter T. Pham, Dan Hua
 
 Here's the description of the selected fields:
 
-review: the review text
-pos: the target, '0' for negative and '1' for positive
-ds_part: 'train'/'test' for the train/test part of dataset, correspondingly
-There are other fields in the dataset. Feel free to explore them if you'd like.
+- review: the review text
+- pos: the target, '0' for negative and '1' for positive
+- ds_part: 'train'/'test' for the train/test part of dataset, correspondingly
+- There are other fields in the dataset. Feel free to explore them if you'd like.
